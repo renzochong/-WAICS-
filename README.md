@@ -61,11 +61,20 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 More Detail can be found in [project proposal document](https://github.com/renzochong/-WAICS-/blob/main/ProposalDoc/Detailed_Proposal_WAICS_RenzoChongFlores.pdf).
 
 # User Stories:
-1.	**Inventory Manager Story:** As an inventory manager, I want to access real-time inventory tracking, so that I can have up-to-the-minute information about stock levels to prevent overstocking or stockouts.
-2.	**Sales Associate Story:** As a sales associate, I need to receive automated stock level alerts and reorder notifications, so I can efficiently manage inventory and ensure product availability for customers.
-3.	**Business Analyst Story:** As a business analyst, I require detailed reporting and analytics for inventory performance, to make data-driven decisions and improve inventory efficiency.
-4.	**System Administrator Story:** As a system administrator, I want to manage user roles and access control, ensuring that each team member has the appropriate level of access to the inventory system.
-5.	**IT Specialist Story:** As an IT specialist, I need to integrate the inventory system with existing sales and purchase order systems through APIs, to ensure seamless data flow and operational efficiency.
+1. **Inventory Manager Story:**
+   - As an inventory manager, I want to access real-time inventory tracking, so that I can have up-to-the-minute information about stock levels to prevent overstocking or stockouts.
+
+2. **Sales Associate Story:**
+   - As a sales associate, I need to receive automated stock level alerts and reorder notifications, so I can efficiently manage inventory and ensure product availability for customers.
+
+3. **Business Analyst Story:**
+   - As a business analyst, I require detailed reporting and analytics for inventory performance, to make data-driven decisions and improve inventory efficiency.
+
+4. **System Administrator Story:**
+   - As a system administrator, I want to manage user roles and access control, ensuring that each team member has the appropriate level of access to the inventory system.
+
+5. **IT Specialist Story:**
+   - As an IT specialist, I need to integrate the inventory system with existing sales and purchase order systems through APIs, to ensure seamless data flow and operational efficiency.
 
 # Use Cases:
 1. **Use Case for Real-time Inventory Tracking:**
