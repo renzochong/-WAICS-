@@ -58,7 +58,7 @@ The project will be executed in phases:
 ## Conclusion
 WAICS is set to be a transformative solution in inventory management, leveraging the latest in technology to offer a flexible, reliable, and efficient system. Through its comprehensive data management, robust API, and versatile interfaces, WAICS will provide unparalleled control and insights into inventory processes. This proposal outlines a clear vision and roadmap for the system's development, ensuring its alignment with the evolving needs of modern businesses.
 
-More Detail can be found in [project proposal document](https://github.com/renzochong/-WAICS-/blob/main/ProposalDoc/Detailed_Proposal_WAICS_RenzoChongFlores.pdf).
+## More Detail can be found in [project proposal document](https://github.com/renzochong/-WAICS-/blob/main/ProposalDoc/Detailed_Proposal_WAICS_RenzoChongFlores.pdf).
 
 # Wireframe Sketches (First DRAFT)
 ## Main
