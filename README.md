@@ -121,5 +121,7 @@ More Detail can be found in [project proposal document](https://github.com/renzo
    - **Preconditions:** External systems are API compatible.
    - **Main Flow:** IT Specialist sets up and tests the integration between WAICS and external systems.
    - **Postconditions:** Seamless data exchange is established between the systems.
-
+  
+# (UML) Use Case Diagram
+![Alt text](ImagesDRAFT/UMLUseCaseDiagram.jpg)
 
