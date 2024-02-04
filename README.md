@@ -62,7 +62,7 @@ More Detail can be found in [project proposal document](https://github.com/renzo
 
 # Wireframe Sketches (First DRAFT)
 ## Main
-![Alt text](-WAICS-/ImagesDRAFT/Auction_Main.jpg)
+![Alt text](ImagesDRAFT/Main.jpg)
 
 # User Stories:
 1. **Inventory Manager Story:**
