@@ -63,6 +63,12 @@ More Detail can be found in [project proposal document](https://github.com/renzo
 # Wireframe Sketches (First DRAFT)
 ## Main
 ![Alt text](ImagesDRAFT/Main.jpg)
+## Add QTY Page
+![Alt text](ImagesDRAFT/AddQTY.jpg)
+## Remove QTY Page
+![Alt text](ImagesDRAFT/RemoveQTY.jpg)
+## Create Inventory Item
+![Alt text](ImagesDRAFT/CreateItemInventory.jpg)
 
 # User Stories:
 1. **Inventory Manager Story:**
