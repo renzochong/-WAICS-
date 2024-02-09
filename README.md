@@ -139,11 +139,11 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 
 # Requirements Table
 
-| Column 1 | Column 2 |
+| ID | Requirements |
 |----------|----------|
-| Row 1    | Data 1   |
-| Row 2    | Data 2   |
-| Row 3    | Data 3   |
-| Row 4    | Data 4   |
-| Row 5    | Data 5   |
-| Row 6    | Data 6   |
+| 0001    | The system must allow users to search product UD, Name, and/or Location   |
+| 0002    | The system must allow users to filter products by Status, QTY min and/or QTY max   |
+| 0003    | The System must allow users to remove QTY from an item/product   |
+| 0004    | The System must allow users to Add QTY to an item/product   |
+| 0005    | The System must allow users to create new inventory item/product   |
+| 0006    | The System must allow users to Change item/product status   |
