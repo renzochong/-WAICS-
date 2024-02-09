@@ -2,6 +2,7 @@
 Table of Contents:
 
 [Introduction](https://github.com/renzochong/-WAICS-/blob/main/README.md#Introduction)  
+[Introduction](https://github.com/renzochong/-WAICS-/blob/main/README.md#Introduction)   
 [Data Component](https://github.com/renzochong/-WAICS-/blob/main/README.md#Data-Componenet)   
 [System Interface](https://github.com/renzochong/-WAICS-/blob/main/README.md#System-Interface)   
 [Project Plan](https://github.com/renzochong/-WAICS-/blob/main/README.md#Project-Plan)   
