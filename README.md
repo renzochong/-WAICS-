@@ -69,7 +69,7 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 
 ## More Detail can be found in [project proposal document](https://github.com/renzochong/-WAICS-/blob/main/ProposalDoc/Detailed_Proposal_WAICS_RenzoChongFlores.pdf).
 
-# Wireframe Sketches First Drafts
+## Wireframe Sketches First Drafts
 ## Main
 ![Alt text](ImagesDRAFT/Main.jpg)
 ## Add QTY Page
