@@ -8,7 +8,8 @@ Table of Contents:
 [Wireframe Sketches First Drafts](https://github.com/renzochong/-WAICS-/blob/main/README.md#Wireframe-Sketches-First-Drafts)   
 [User Stories](https://github.com/renzochong/-WAICS-/blob/main/README.md#user-stories)  
 [Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
-[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-use-case-diagram)
+[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-use-case-diagram)   
+[Requirements](https://github.com/renzochong/-WAICS-/blob/main/README.md#Requirements)
 
 
 ## Introduction
@@ -136,5 +137,5 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 # UML Use Case Diagram
 ![Alt text](ImagesDRAFT/UMLUseCaseDiagram.jpg)
 
-# 
+# Requirements
 
