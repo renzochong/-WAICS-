@@ -5,7 +5,7 @@ Table of Contents:
 [Solution Architecture Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#solution-architecture-diagram)  
 [Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
 [User Stories](https://github.com/renzochong/-WAICS-/tree/main#user-stories)  
-[Initial Use Cases](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#initial-use-cases)  
+[Initial Use Cases](https://github.com/renzochong/-WAICS-/tree/main#use-cases)  
 [Use Case Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#use-case-diagram)
 
 
