@@ -6,7 +6,7 @@ Table of Contents:
 [Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
 [User Stories](https://github.com/renzochong/-WAICS-/tree/main#user-stories)  
 [Use Cases](https://github.com/renzochong/-WAICS-/tree/main#use-cases)  
-[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/tree/main#(UML)-use-case-diagram)
+[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/tree/main#UML-use-case-diagram)
 
 
 ## Intoduction
@@ -131,6 +131,6 @@ WAICS is set to be a transformative solution in inventory management, leveraging
    - **Main Flow:** IT Specialist sets up and tests the integration between WAICS and external systems.
    - **Postconditions:** Seamless data exchange is established between the systems.
   
-# (UML) Use Case Diagram
+# UML Use Case Diagram
 ![Alt text](ImagesDRAFT/UMLUseCaseDiagram.jpg)
 
