@@ -5,6 +5,7 @@ Table of Contents:
 [Data Component](https://github.com/renzochong/-WAICS-/blob/main/README.md#Data-Componenet)   
 [System Interface](https://github.com/renzochong/-WAICS-/blob/main/README.md#System-Interface)   
 [Project Plan](https://github.com/renzochong/-WAICS-/blob/main/README.md#Project-Plan)   
+[Wireframe Sketches First Drafts](https://github.com/renzochong/-WAICS-/blob/main/README.md#Wireframe-Sketches-First-Drafts)   
 [User Stories](https://github.com/renzochong/-WAICS-/blob/main/README.md#user-stories)  
 [Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
 [(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-use-case-diagram)
