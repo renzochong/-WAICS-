@@ -3,7 +3,7 @@ Table of Contents:
 
 [Introduction](https://github.com/renzochong/-WAICS-/blob/main/README.md#Introduction)  
 [Solution Architecture Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#solution-architecture-diagram)  
-[Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
+[Wireframe Diagrams](https://github.com/renzochong/-WAICS-/blob/main/README.md#wireframe-skectches-(First DRAFT))
 [User Stories](https://github.com/renzochong/-WAICS-/blob/main/README.md#user-stories)  
 [Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
 [(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-use-case-diagram)
