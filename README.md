@@ -6,7 +6,7 @@ Table of Contents:
 [Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
 [User Stories](https://github.com/renzochong/-WAICS-/tree/main#user-stories)  
 [Use Cases](https://github.com/renzochong/-WAICS-/tree/main#use-cases)  
-[Use Case Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#use-case-diagram)
+[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/tree/main#use-case-diagram)
 
 
 ## Intoduction
