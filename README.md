@@ -139,3 +139,11 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 
 # Requirements Table
 
+| Column 1 | Column 2 |
+|----------|----------|
+| Row 1    | Data 1   |
+| Row 2    | Data 2   |
+| Row 3    | Data 3   |
+| Row 4    | Data 4   |
+| Row 5    | Data 5   |
+| Row 6    | Data 6   |
