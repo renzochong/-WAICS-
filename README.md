@@ -1,12 +1,12 @@
 # Web Application Inventory Control System (WAICS)
 Table of Contents:
 
-[Introduction](https://github.com/renzochong/-WAICS-/tree/main#Introduction)  
+[Introduction](https://github.com/renzochong/-WAICS-/blob/main/README.md#Introduction)  
 [Solution Architecture Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#solution-architecture-diagram)  
 [Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
-[User Stories](https://github.com/renzochong/-WAICS-/tree/main#user-stories)  
-[Use Cases](https://github.com/renzochong/-WAICS-/tree/main#use-cases)  
-[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/tree/main#UML-use-case-diagram)
+[User Stories](https://github.com/renzochong/-WAICS-/blob/main/README.md#user-stories)  
+[Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
+[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-use-case-diagram)
 
 
 ## Intoduction
