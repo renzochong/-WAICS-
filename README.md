@@ -3,7 +3,7 @@ Table of Contents:
 
 [Introduction](https://github.com/renzochong/-WAICS-/blob/main/README.md#Introduction)  
 [Solution Architecture Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#solution-architecture-diagram)  
-[Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
+[Wireframe Sketches First Draft](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-sketches-first-draft)  
 [User Stories](https://github.com/renzochong/-WAICS-/blob/main/README.md#user-stories)  
 [Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
 [(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-use-case-diagram)
@@ -69,7 +69,7 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 
 ## More Detail can be found in [project proposal document](https://github.com/renzochong/-WAICS-/blob/main/ProposalDoc/Detailed_Proposal_WAICS_RenzoChongFlores.pdf).
 
-# Wireframe Sketches (First DRAFT)
+# Wireframe Sketches First Draft
 ## Main
 ![Alt text](ImagesDRAFT/Main.jpg)
 ## Add QTY Page
