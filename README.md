@@ -1,6 +1,18 @@
 # Web Application Inventory Control System (WAICS)
+Table of Contents:
 
-## Intoduction
+[Introduction](https://github.com/renzochong/-WAICS-/blob/main/README.md#Introduction)   
+[Data Component](https://github.com/renzochong/-WAICS-/blob/main/README.md#Data-Component)   
+[System Interface](https://github.com/renzochong/-WAICS-/blob/main/README.md#System-Interface)   
+[Project Plan](https://github.com/renzochong/-WAICS-/blob/main/README.md#Project-Plan)   
+[Wireframe Sketches First Drafts](https://github.com/renzochong/-WAICS-/blob/main/README.md#Wireframe-Sketches-First-Drafts)   
+[User Stories](https://github.com/renzochong/-WAICS-/blob/main/README.md#user-stories)  
+[Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
+[(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-Use-Case-Diagram)   
+[Requirements Table](https://github.com/renzochong/-WAICS-/blob/main/README.md#Requirements-Table)
+
+
+## Introduction
 In today's fast-paced business environment, efficient and effective inventory management is crucial. The Web Application Inventory Control System (WAICS) is envisioned as a comprehensive solution to address the complexities and challenges of modern inventory management. Its purpose is to streamline and automate the processes of tracking, managing, and analyzing inventory across multiple channels and locations. Key features include real-time inventory tracking, automated stock alerts, integration with sales and purchase order systems, detailed analytics, and multi-platform support. The system focuses on enhancing efficiency, accuracy, and decision-making in inventory management using advanced technology. WAICS will feature a centralized database, robust API for secure data access, and multi-tiered user access control, catering to diverse business needs in the fast-paced modern business environment.
 
 ## Purpose and Functionality
@@ -58,9 +70,9 @@ The project will be executed in phases:
 ## Conclusion
 WAICS is set to be a transformative solution in inventory management, leveraging the latest in technology to offer a flexible, reliable, and efficient system. Through its comprehensive data management, robust API, and versatile interfaces, WAICS will provide unparalleled control and insights into inventory processes. This proposal outlines a clear vision and roadmap for the system's development, ensuring its alignment with the evolving needs of modern businesses.
 
-## More Detail can be found in [project proposal document](https://github.com/renzochong/-WAICS-/blob/main/ProposalDoc/Detailed_Proposal_WAICS_RenzoChongFlores.pdf).
+### More details can be found in [project proposal document](https://github.com/renzochong/-WAICS-/blob/main/ProposalDoc/Detailed_Proposal_WAICS_RenzoChongFlores.pdf).
 
-# Wireframe Sketches (First DRAFT)
+# Wireframe Sketches First Drafts
 ## Main
 ![Alt text](ImagesDRAFT/Main.jpg)
 ## Add QTY Page
@@ -122,6 +134,16 @@ WAICS is set to be a transformative solution in inventory management, leveraging
    - **Main Flow:** IT Specialist sets up and tests the integration between WAICS and external systems.
    - **Postconditions:** Seamless data exchange is established between the systems.
   
-# (UML) Use Case Diagram
+# UML Use Case Diagram
 ![Alt text](ImagesDRAFT/UMLUseCaseDiagram.jpg)
 
+# Requirements Table
+
+| ID | Requirements |
+|----------|----------|
+| 0001    | The system must allow users to search product UD, Name, and/or Location   |
+| 0002    | The system must allow users to filter products by Status, QTY min and/or QTY max   |
+| 0003    | The System must allow users to remove QTY from an item/product   |
+| 0004    | The System must allow users to Add QTY to an item/product   |
+| 0005    | The System must allow users to create new inventory item/product   |
+| 0006    | The System must allow users to Change item/product status   |
