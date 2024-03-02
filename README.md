@@ -9,7 +9,8 @@ Table of Contents:
 [User Stories](https://github.com/renzochong/-WAICS-/blob/main/README.md#user-stories)  
 [Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
 [(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-Use-Case-Diagram)   
-[Requirements Table](https://github.com/renzochong/-WAICS-/blob/main/README.md#Requirements-Table)
+[Requirements Table](https://github.com/renzochong/-WAICS-/blob/main/README.md#Requirements-Table)   
+[Chen-notation Entity Relationship Diagram (ERD)](https://github.com/renzochong/-WAICS-/blob/main/README.md#Chen-ERD)
 
 
 ## Introduction
@@ -147,3 +148,6 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 | 0004    | The System must allow users to Add QTY to an item/product   |
 | 0005    | The System must allow users to create new inventory item/product   |
 | 0006    | The System must allow users to Change item/product status   |
+
+# Chen ERD
+![Alt text](ImagesDRAFT/Chen_ERD.jpg)
