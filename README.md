@@ -10,7 +10,9 @@ Table of Contents:
 [Use Cases](https://github.com/renzochong/-WAICS-/blob/main/README.md#use-cases)  
 [(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-Use-Case-Diagram)   
 [Requirements Table](https://github.com/renzochong/-WAICS-/blob/main/README.md#Requirements-Table)   
-[Chen-notation Entity Relationship Diagram (ERD)](https://github.com/renzochong/-WAICS-/blob/main/README.md#Chen-ERD)
+[Chen-notation Entity Relationship Diagram (ERD)](https://github.com/renzochong/-WAICS-/blob/main/README.md#Chen-ERD)   
+[Class Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#Class-Diagram)
+
 
 
 ## Introduction
@@ -151,3 +153,7 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 
 # Chen ERD
 ![Alt text](ImagesDRAFT/Chen_ERD.jpg)
+
+# Class Diagram
+![Alt text](ImagesDRAFT/ClassDiagram.jpg)
+
