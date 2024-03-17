@@ -13,5 +13,5 @@ The idea behind the adding and removing the QTYs is to add or remove the QTY ent
 ## Main
 ![Alt text](ImagesPrototype/MainPage.jpg)
 
-##Create Invetory Page
+## Create Invetory Page
 ![Alt text](ImagesPrototype/CreateItemPage.jpg)
