@@ -167,3 +167,6 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 
 ## Swagger Screenshot Get API Call test
 ![Alt text](API/Images/SwaggerGETScreen.jpg)
+
+## localhost Screenshot Get API Call test
+![Alt text](API/Images/LocalHostGETScreen.jpg)
