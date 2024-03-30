@@ -11,7 +11,8 @@ Table of Contents:
 [(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-Use-Case-Diagram)   
 [Requirements Table](https://github.com/renzochong/-WAICS-/blob/main/README.md#Requirements-Table)   
 [Chen-notation Entity Relationship Diagram (ERD)](https://github.com/renzochong/-WAICS-/blob/main/README.md#Chen-ERD)   
-[Class Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#Class-Diagram)
+[Class Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#Class-Diagram)   
+[Data Access Layer](https://github.com/renzochong/-WAICS-/blob/main/README.md#Data-Access-Layer)
 
 
 
