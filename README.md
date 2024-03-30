@@ -159,6 +159,8 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 ![Alt text](ImagesDRAFT/ClassDiagram.jpg)
 
 # Data Access Layer
+Testing API GET calls form Product Data model from WAICS project. The model code for products has been added to a local API 
+program to test the functionality of an API call. Also, a controller was made in order for the model to funtion in this API demo.
 ## Product Model Code
 ![Alt text](API/Images/ProductModelCode.jpg)
 
