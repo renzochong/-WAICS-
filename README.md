@@ -164,3 +164,6 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 
 ## Product Controller Code
 ![Alt text](API/Images/ProductControllerCode.jpg)
+
+## Swagger Screenshot Get API Call test
+![Alt text](API/Images/SwaggerGETScreen.jpg)
