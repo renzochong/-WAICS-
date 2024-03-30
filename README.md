@@ -157,3 +157,4 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 # Class Diagram
 ![Alt text](ImagesDRAFT/ClassDiagram.jpg)
 
+# Data Access Layer
