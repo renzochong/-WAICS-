@@ -1,0 +1,170 @@
+﻿@{
+    ViewData["Title"] = "Main";
+}
+
+<div class="inventory-body">
+    <div class="search-section">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="inventry-heading">Search</h3>
+                <div class="search-section-wrap">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label for="" class="search-label">ID</label>
+                                    <input id="idInput" type="text" class="search-input" oninput="searchItems()">
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="" class="search-label">Item name</label>
+                                    <input id="itemNameInput" type="text" class="search-input" oninput="searchItems()">
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="" class="search-label">Location</label>
+                                    <input id="locationInput" type="text" class="search-input" oninput="searchItems()">
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="" class="search-label">Status</label>
+                                    <select id="statusSelect" class="search-select" onchange="searchItems()">
+                                        <option value="Option">Select Option</option>
+                                        <option value="Available">Available</option>
+                                        <option value="Not Available">Not Available</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="row justify-content-center">
+                                <div class="col-md-4">
+                                    <label for="" class="search-label">QTY min</label>
+                                    <input id="qtyMinInput" type="number" class="search-input" oninput="searchItems()">
+                                </div>
+                                <div class="col-md-4">
+                                    <label for="" class="search-label">QTY max</label>
+                                    <input id="qtyMaxInput" type="number" class="search-input" oninput="searchItems()">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-7">
+                <h3 class="inventry-heading">Current Inventory</h3>
+                <div class="inventry-table-section">
+                    <div class="inventry-table-wrap">
+                        <table class="inventry-table">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Item</th>
+                                    <th>QTY</th>
+                                    <th>Location</th>
+                                    <th>Area</th>
+                                    <th>Status</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                         
+
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="inventry-button-div-bottom">
+                        <a asp-action="AddInventory" asp-controller="Home" class="btn btn-sm btn-primary w-100"> <i class="fas fa-plus"></i>Create Inventroy Item</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <h3 class="inventry-heading">Selected</h3>
+                <div class="inventry-selected-section">
+                    <div class="inventry-selected-wrap">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <span class="selected-span">ID</span>
+                                <p class="selected-p" id="itemid"></p>
+                            </div>
+                            <div class="col-md-6">
+                                <span class="selected-span">Item</span>
+                                <p class="selected-p" id="itemName"></p>
+                            </div>
+                            <div class="col-md-6">
+                                <span class="selected-span">QTY</span>
+                                <p class="selected-p" id="itemQty"></p>
+                            </div>
+                            <div class="col-md-6">
+                                <span class="selected-span">Location</span>
+                                <p class="selected-p" id="itemLocation"></p>
+                            </div>
+                            <div class="col-md-6">
+                                <span class="selected-span">Area</span>
+                                <p class="selected-p" id="itemArea"></p>
+                            </div>
+                            <div class="col-md-6">
+                                <span class="selected-span">Status</span>
+                                <p class="selected-p" id="itemStatus">Available</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="inventry-button-div-bottom" id="initialButtons">
+                        <button class="btn btn-sm btn-primary w-100 mb-2" onclick="showAddQtyFields()"><i class="fas fa-plus-circle"></i> Add QTY</button>
+                        <button class="btn btn-sm btn-primary w-100 mb-2" onclick="showRemoveQtyFields()"><i class="fas fa-minus-circle"></i> Remove QTY</button>
+                        <button class="btn btn-sm btn-primary w-100 mb-2" onclick="showEditFields()"><i class="fas fa-pencil-alt"></i> Edit Status</button>
+                        <button class="btn btn-sm btn-primary w-100" onclick="MoveQty()" id="moveId" ><i class="far fa-paper-plane"></i> Move QTY</button>
+                       
+                    </div>
+                    @*Add qty work*@
+                    <div class="inventry-button-div-bottom" id="addQtyFields" style="display: none; padding-bottom: 50px;">
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <label for="" class="search-label">QTY to Add</label>
+                                <input type="number" class="search-input" value="1" id="qtyToAdd">
+                                <input type="hidden" id="itemid" />
+                            </div>
+                        </div>
+                        <button class="btn btn-sm btn-primary w-100" onclick="addQty(); hidePreviousLink()"><i class="fas fa-plus-circle"></i> Add Qty</button>
+                    </div>
+                    <a href="/Home/Index" class="previous-a" id="previousLink" style="display: none;"><i class="fas fa-arrow-left"></i> Previous</a>
+                    @*Remove qty work*@
+                    <div class="inventry-button-div-bottom" id="RemoveQtyFields" style="display: none; padding-bottom: 50px;">
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <label for="" class="search-label">QTY to Remove</label>
+                                <input type="number" class="search-input" id="qtyToRemove" value="1">
+                                <input type="hidden" id="itemid" />
+                            </div>
+                        </div>
+                        <button class="btn btn-sm btn-primary w-100" onclick="RemoveQty(); hidePreviousLink()"><i class="fas fa-minus-circle"></i> Remove</button>
+                    </div>
+                    <a href="/Home/Index" class="previous-a" id="previousLink" style="display: none;" ><i class="fas fa-arrow-left"></i> Previous</a>
+                    @*Edit Status work*@
+                    <div class="inventry-button-div-bottom" id="EditStatusFields" style="display: none; padding-bottom: 50px;">
+                    <div class="row mb-3">
+                        <div class="col-md-4">
+                            <label for="" class="search-label">QTY</label>
+                            <input type="number" class="search-input"  id="EditQntyRemove">                            
+                            <input type="hidden" id="itemid" />
+                        </div>
+                        <div class="col-md-8">
+                            <label for="" class="search-label">New Status</label>
+                            <select type="text" class="search-select" id="EdditstatusSelect" >
+                                <option value="Available">Available</option>
+                                <option value="Not Available">Not Available </option>
+                            </select>
+                        </div>
+                    </div>
+                    <button class="btn btn-sm btn-primary w-100" onclick="EditStatus(); hidePreviousLink()"><i class="fas fa-pencil-alt"></i> Edit Status</button>
+                </div>
+                    <a href="/Home/Index" class="previous-a" id="previousLink" style="display: none;"><i class="fas fa-arrow-left"></i> Previous</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="~/js/Product.js"></script>
+}
