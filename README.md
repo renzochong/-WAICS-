@@ -11,7 +11,8 @@ Table of Contents:
 [(UML) Use Case Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#UML-Use-Case-Diagram)   
 [Requirements Table](https://github.com/renzochong/-WAICS-/blob/main/README.md#Requirements-Table)   
 [Chen-notation Entity Relationship Diagram (ERD)](https://github.com/renzochong/-WAICS-/blob/main/README.md#Chen-ERD)   
-[Class Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#Class-Diagram)
+[Class Diagram](https://github.com/renzochong/-WAICS-/blob/main/README.md#Class-Diagram)   
+[Data Access Layer](https://github.com/renzochong/-WAICS-/blob/main/README.md#Data-Access-Layer)
 
 
 
@@ -157,3 +158,17 @@ WAICS is set to be a transformative solution in inventory management, leveraging
 # Class Diagram
 ![Alt text](ImagesDRAFT/ClassDiagram.jpg)
 
+# Data Access Layer
+Testing API GET calls form Product Data model from WAICS project. The model code for products has been added to a local API 
+program to test the functionality of an API call. Also, a controller was made in order for the model to funtion in this API demo.
+## Product Model Code
+![Alt text](API/Images/ProductModelCode.jpg)
+
+## Product Controller Code
+![Alt text](API/Images/ProductControllerCode.jpg)
+
+## Swagger Screenshot Get API Call test
+![Alt text](API/Images/SwaggerGETScreen.jpg)
+
+## localhost Screenshot Get API Call test
+![Alt text](API/Images/LocalHostGETScreen.jpg)
